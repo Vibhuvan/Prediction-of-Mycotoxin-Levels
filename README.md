@@ -10,3 +10,5 @@ Data preprocessing: handling missing values, normalization, and PCA.
 Regression modeling: Multi-Layer Perceptron (MLP) with hyperparameter tuning.
 
 Model evaluation using MAE, RMSE, and R² score.
+
+Please run code.ipynb for the results
