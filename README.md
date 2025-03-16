@@ -1,9 +1,9 @@
 # Prediction-of-Mycotoxin-Levels
-#Overview
+Overview:
 
 This project develops a machine learning pipeline to predict mycotoxin (DON concentration) levels in corn samples using hyperspectral imaging data. The pipeline includes data preprocessing, regression modeling, and deployment readiness.
 
-#Features
+Features:
 
 Data preprocessing: handling missing values, normalization, and PCA.
 
